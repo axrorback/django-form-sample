@@ -1,0 +1,4 @@
+.idea
+formalar/migrations/*
+db.sqlite3
+.env
